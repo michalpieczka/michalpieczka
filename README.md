@@ -1,4 +1,4 @@
-#Hi!
+# Hi!
 My name is Michał Pieczka
 Im from Poland
 I'm interested in coding and that's basically it
